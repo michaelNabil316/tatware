@@ -1,0 +1,32 @@
+{
+   "chat": [
+        {
+            "is_ora":true,
+            "text":"Hi, What's your Name Firstname"
+        },
+        {
+            "is_ora":false,
+            "text":"Abdalla"
+        },
+        {
+            "is_ora":true,
+            "text":"Ok,Abdalla What's your Name Lastname"
+        },
+        {
+            "is_ora":false,
+            "text":"Salah"
+        },
+        {
+            "is_ora":true,
+            "text":"Mr Abdalla Salah, What's your your Title"
+        },
+        {
+            "is_ora":false,
+            "text":"Front-end Developer"
+        },
+        {
+            "is_ora":true,
+            "text":"What Categories you will need expert in?"
+        }
+    ]
+}
